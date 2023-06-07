@@ -2,9 +2,10 @@
 
 [![Github](https://img.shields.io/github/followers/shaonianyr?label=Follow&style=social)](https://github.com/shaonianyr)
 
-- Golang & Python Developer
 - Complex System Tester
+- Efficiency Tool Developer
 - Cloud Native Admirer
+- AIGC Trailblazer
 
 - [从性能压测的角度带你了解云原生系列分享合集](https://testerhome.com/topics/34062)
 - [Istio 跨集群网络通信的落地实践](https://testerhome.com/topics/34442)
