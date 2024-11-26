@@ -7,6 +7,7 @@
 - Cloud Native Admirer
 - AIGC Trailblazer
 
+- 从入门到 "放弃" 之玩转 AI 分享合集【未公开】
 - [从性能压测的角度带你了解云原生系列分享合集](https://testerhome.com/topics/34062)
 - [Istio 跨集群网络通信的落地实践](https://testerhome.com/topics/34442)
 - [PLG 云原生日志系统在压测中的落地实践](https://testerhome.com/topics/34234)
