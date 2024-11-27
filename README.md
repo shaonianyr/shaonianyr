@@ -16,7 +16,7 @@
 - [更多效能工具开发及自动化方案设计](https://testerhome.com/shaonianyr)
 - ...
 
-### Recent Activity
+### Total Activity
 
 <!--
 ![shaonianyr's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaonianyr&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
